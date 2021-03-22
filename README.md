@@ -1,0 +1,1 @@
+# Horovod + OpenMPI runtime for csquare.ai workloads
